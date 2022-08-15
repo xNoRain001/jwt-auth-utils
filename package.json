@@ -1,0 +1,13 @@
+{
+  "name": "jwt-auth-utils",
+  "version": "1.0.0",
+  "description": "Json Web Token.",
+  "main": "./src/index.js",
+  "author": "Zhang Meixue",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xNoRain001/jwt-auth-utils.git"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
