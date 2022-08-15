@@ -1,6 +1,6 @@
 {
   "name": "jwt-auth-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Json Web Token.",
   "main": "./src/index.js",
   "author": "Zhang Meixue",
